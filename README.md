@@ -5,7 +5,7 @@
 #### I'm a Full-Stack Developer working in Hyderabad, India.
 
 - 🔭 I’m currently working at **Hexagon Capability Center India**
-- ⚙️ I use daily: `.js`, `.css`, `.html`, `.svg`
+- ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.html`, `.ts`
 - ✏️ Where I write: [My Blog Posts](https://spanugan.hashnode.dev/)
 - 💚 Side projects: [Hot Hunts](https://hothunts.vercel.app/)
 - 📫 Reach me: [twitter](https://twitter.com/cnuis2cool) | [LinkedIn](https://www.linkedin.com/in/cnuis2cool)
